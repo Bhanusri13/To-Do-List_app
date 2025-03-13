@@ -13,8 +13,6 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**. This 
 3. Enter a task in the input field and click the "Add" button.  
 4. Click the ❌ button to remove a task.  
 
-## Live Demo  
-[Upload the project to GitHub Pages and add your live link here]  
 
 ## Technologies Used  
 - HTML  
